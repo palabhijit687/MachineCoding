@@ -1,0 +1,8 @@
+# compiled output
+out/
+*.class
+
+# os / editor noise
+.DS_Store
+.idea/
+*.iml
